@@ -1,4 +1,4 @@
-# Community News Application - Fitness Tracker
+# Fitness Tracker
 
 A web-based fitness tracking application that allows users to log workouts, monitor progress, and track fitness goals. Built with vanilla JavaScript, HTML, and CSS.
 
