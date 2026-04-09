@@ -83,7 +83,6 @@ community-news-application/
 - Built milestone-based messaging that triggers at specific progress points:
   - 50% progress: "You're halfway there! Keep going!"
   - 100% progress: "Congratulations, goal achieved!"
-  - >50% progress: "You're almost there!! You got this!"
   - <50% progress: "Just keep pushing!!"
 
 ### 5. **Workout Display Management**
